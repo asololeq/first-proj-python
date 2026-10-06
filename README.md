@@ -7,4 +7,4 @@ Project ini adalah project pertama saya, dengan beberapa fitur yaitu:
 - Melihat rata-rata pengeluaran dalam sehari  
 
 Cara menjalankan  
-- 
+`python overcial.py`
